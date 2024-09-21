@@ -3,9 +3,6 @@
 </p>
 
 
-## Report Link:
-  <a href="https://drive.google.com/file/d/1eRe7oS5bTRA5sS3KtWjYHRlVnTVoyjUU/view?usp=sharing">Report</a>
-  
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1K6Tl1qzXE2IW-TNNJ-J2WVf0kSx6Cg2G/edit?usp=sharing&ouid=114467276516412555543&rtpof=true&sd=true"> PPT link</a>
 
