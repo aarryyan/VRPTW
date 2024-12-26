@@ -3,8 +3,7 @@
 </p>
 
 
-## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1K6Tl1qzXE2IW-TNNJ-J2WVf0kSx6Cg2G/edit?usp=sharing&ouid=114467276516412555543&rtpof=true&sd=true"> PPT link</a>
+
 
 
 ##
